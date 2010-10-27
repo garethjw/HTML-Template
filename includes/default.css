@@ -1,0 +1,103 @@
+/* Basic element selectors */
+
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+body {
+  color: #000000; 
+  background-color: #FFFFFF; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 100%;
+  line-height: 100%;
+  text-align: center; 
+}
+
+br {
+   line-height: 10px;
+}
+
+img {
+   border-style: none;
+}
+
+
+
+
+
+/* Ids */
+
+#divWrapper {
+   width: 800px; 
+   margin: 0 auto; 
+   text-align: left; 
+}
+
+#divHeader {
+
+}
+
+
+#divBanner {
+
+}
+
+#divNavigation {
+
+}
+
+
+
+/* Typography */
+
+h1, h2, h3 {
+   padding: 0px 0px 0.4em 0px;
+   color: #FF0000; 
+   background-color: transparent; 
+   font-size: 1.7em; 
+   line-height: 1.25em; 
+}
+
+p {
+   color: #000000; 
+   background-color: transparent; 
+   font-size: 80%;
+}
+
+
+/* Anchors */
+
+a {
+   color: #FF0000; 
+   background-color: transparent;
+}
+
+a:hover {
+   text-decoration: none;
+}
+
+
+
+/* Lists */
+
+ul {
+   padding: 0px 0px 0px 17px;
+}
+
+li {
+}
+
+
+
+/* Display */
+.divClearFloat {
+   clear: both;
+}
+
+.divSpacing {
+   float: left;
+   width: 800px;
+   height: 10px;
+}
+
