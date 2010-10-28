@@ -1,12 +1,11 @@
-<?php include("modules/page_doctype.php") ?>
-
+<?php include("includes/page_doctype.php") ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title></title>
 
 <base href="" />
 
-<?php include("modules/page_metatags.php") ?>
+<?php include("includes/page_metatags.php") ?>
 
 <link href="includes/default.css" rel="stylesheet" type="text/css" media="screen" />
 
