@@ -1,7 +1,7 @@
 <?php include("includes/page_doctype.php") ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Testing smart commit - move to done</title>
+<title>Testing smart commit - log time</title>
 
 <base href="" />
 
