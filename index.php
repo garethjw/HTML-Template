@@ -1,7 +1,7 @@
 <?php include("includes/page_doctype.php") ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title></title>
+<title>Testing GitHub and Jira integration</title>
 
 <base href="" />
 
