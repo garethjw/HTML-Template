@@ -1,7 +1,7 @@
 <?php include("includes/page_doctype.php") ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Testing smart commit - log time</title>
+<title>Testing DVCS sync</title>
 
 <base href="" />
 
@@ -17,7 +17,7 @@
 
 <div id="divWrapper">
 
-  <p>Testing branch sync with MTP-9</p>
+  <p>Testing branch sync with NG-2</p>
 
 </div>
 
