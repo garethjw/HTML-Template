@@ -1,7 +1,7 @@
 <?php include("includes/page_doctype.php") ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Testing GitHub and Jira integration</title>
+<title>Testing multiple commit issues with GitHub and Jira integration</title>
 
 <base href="" />
 
@@ -19,9 +19,6 @@
 
 <p>123456</p>
 
-  <p>789</p>
-  <p>123</p>
-  <p>456</p>
   <p>789</p>
   <p>123</p>
 
