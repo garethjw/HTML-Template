@@ -17,7 +17,7 @@
 
 <div id="divWrapper">
 
-  <p>Testing branch sync</p>
+  <p>Testing branch sync with MTP-9</p>
 
 </div>
 
